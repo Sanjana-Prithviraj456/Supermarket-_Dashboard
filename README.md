@@ -1,7 +1,7 @@
 # supermarket-_dashboard
 This dashboard provides an overview of total product sales, segmented by various categories, including region, product, sales representative, and other relevant factors.
 
-# PROJECT OVERVIEW
+# Project Overview
 The purpose of the Sales Dashboard is to analyze product performance across various categories, such as monthly and yearly sales, product-wise, and region-wise, utilizing pivot tables and data visualization tools. The objective is to offer a user-friendly interface that enables users to interact with the data and gain insights into product sales, segmented by different demographics.
 
 ![Picture 1](https://github.com/user-attachments/assets/3ae7fc8f-4dde-4538-abdf-a2da3f12c9c5)
