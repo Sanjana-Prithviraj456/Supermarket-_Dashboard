@@ -5,7 +5,9 @@ This dashboard provides an overview of total product sales, segmented by various
 The purpose of the Sales Dashboard is to analyze product performance across various categories, such as monthly and yearly sales, product-wise, and region-wise, utilizing pivot tables and data visualization tools. The objective is to offer a user-friendly interface that enables users to interact with the data and gain insights into product sales, segmented by different demographics.
 
 ![Picture 1](https://github.com/user-attachments/assets/3ae7fc8f-4dde-4538-abdf-a2da3f12c9c5)
+![Screenshot 2025-05-31 193047](https://github.com/user-attachments/assets/3feb77c5-e85f-46cf-a09e-22dacea3eb5c)
 
+![Screenshot 2025-05-31 193132](https://github.com/user-attachments/assets/b2398d17-7845-40f9-bf8a-96d768e96d47)
 
 # Data set
 Dataset used  https://www.kaggle.com/datasets/vinothkannaece/sales-dataset
